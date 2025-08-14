@@ -1,0 +1,11 @@
+python-telegram-bot==13.7
+urllib3==1.26.18
+ccxt
+pandas
+mplfinance
+ta
+numpy
+requests
+pytz
+Flask
+gunicorn
